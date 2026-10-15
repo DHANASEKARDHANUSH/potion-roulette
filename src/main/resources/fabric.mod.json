@@ -3,9 +3,9 @@
 	"id": "potion-roulette",
 	"version": "${version}",
 	"name": "potion-roulette",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A Survival challenge where random beneficial and harmful potion effects strike every 60 seconds. Obtain a diamond to win!",
 	"authors": [
-		"Me!"
+		"DHANASEKARDHANUSH"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
